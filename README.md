@@ -57,7 +57,7 @@
 
 **[부동산 금융과 데이터 과학] 퀀트 투자 포트폴리오 만들기 커리큘럼**
 
-| 1 |  4월 29일(토) | AI 빅데이터 시대의 도래, 부동산 금유에 데이터 과학 적용하기  https://drive.google.com/drive/u/0/folders/1dZiqOrw0-stPPu7cE24QKd0CJTLPol1d |
+| 1 |  4월 29일(토) | [AI 빅데이터 시대의 도래, 부동산 금융에 데이터 과학 적용하기](https://drive.google.com/drive/u/0/folders/1dZiqOrw0-stPPu7cE24QKd0CJTLPol1d) |
 | --- | --- | --- |
 | 2 |  5월 6일(토) | 빅데이터 분석 방법론  |
 | 3 |  5월 13일(토) | 데이터 언어 학습하기 1: 파이썬 |
