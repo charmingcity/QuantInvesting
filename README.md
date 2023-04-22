@@ -53,7 +53,7 @@
 
 (1회차 4월 29일(토)는 광화문 [서울파이낸스센터](https://map.naver.com/v5/entry/place/19468361?c=15,0,0,0,dh)에서 오프라인 진행)
 
-**사용 소프트웨어  :** Anaconda(Spyder), MySQL, PowerBI, Slack, GitHub, Google Class  
+**사용 소프트웨어  :** Anaconda(Spyder), MySQL, PowerBI, Slack, GitHub  
 
 **[부동산 금융과 데이터 과학] 퀀트 투자 포트폴리오 만들기 커리큘럼**
 
