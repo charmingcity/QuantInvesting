@@ -60,7 +60,7 @@
 | 1 |  4월 29일(토) | [AI 빅데이터 시대의 도래, 부동산 금융에 데이터 과학 적용하기](https://drive.google.com/drive/u/0/folders/1dZiqOrw0-stPPu7cE24QKd0CJTLPol1d) |
 | --- | --- | --- |
 | 2 |  5월 13일(토) | 빅데이터 분석 방법론(https://github.com/charmingcity/QuantInvesting/tree/main/2nd_Big_Data_Analysis_Methodology)  |
-| 3 |  5월 20일(토) | 데이터 언어 학습하기 1: 파이썬 |
+| 3 |  5월 20일(토) | 데이터 언어 학습하기 1: 파이썬 (https://github.com/charmingcity/QuantInvesting/tree/main/3week_Python) |
 | 4 |  5월 27일(토) | 데이터 언어 학습하기 2: 파이썬/판다스, 웹 크롤링 1 (https://github.com/charmingcity/QuantInvesting/tree/main/4th_week_Web_Crawling) | 
 | 5 |  6월 3일(토) | 데이터 언어 학습하기 3: 파이썬/판다스, 웹 크롤링 2 |
 | 6 |  6월 10일(토) | SQL 데이터 조작 언어 학습하기 (MySQL)  |
